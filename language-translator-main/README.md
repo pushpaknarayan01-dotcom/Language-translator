@@ -5,8 +5,8 @@ A modern web-based language translation tool built with HTML, CSS, and JavaScrip
 ![Language Translator Demo](images/demo.png)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
-![Last Update](https://img.shields.io/github/last-commit/amirallami-code/language-translator?style=flat&color=yellow)
-[![Stars](https://img.shields.io/github/stars/amirallami-code/language-translator?style=flat&color=yellow)](https://github.com/amirallami-code/language-translator/)
+![Last Update](https://img.shields.io/github/last-commit/pushpaknarayan01-dotcom/Language-translator?style=flat&color=yellow)
+[![Stars](https://img.shields.io/github/stars/pushpaknarayan01-dotcom/Language-translator?style=flat&color=yellow)](https://pushpaknarayan01-dotcom.github.io/Language-translator//)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen)
 
@@ -41,7 +41,7 @@ This project provides a user-friendly interface for translating text between mul
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/amirallami-code/language-translator.git
+git clone https://github.com/pushpaknarayan01-dotcom/Language-translator.git
 cd language-translator
 ```
 
@@ -73,9 +73,9 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Amirhossein Allami - amirallami.dev@gmail.com
+Pushpak Narayan - pushpaknarayan01@gmail.com
 
-Project Link: [https://github.com/amirallami-code/language-translator](https://github.com/amirallami-code/language-translator)
+Project Link: [https://pushpaknarayan01-dotcom.github.io/Language-translator](https://pushpaknarayan01-dotcom.github.io/Language-translator)
 
 ---
 
